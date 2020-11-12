@@ -1,0 +1,8 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.Employee{
+    padding: 150px 0;
+    &-title{
+        margin-bottom: 16px;
+    }
+}
